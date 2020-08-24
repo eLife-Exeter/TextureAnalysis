@@ -1,3 +1,6 @@
+This code is associated with the paper from Tesileanu et al., "Efficient coding of natural scene statistics predicts discrimination thresholds for grayscale textures". eLife, 2020. http://doi.org/10.7554/eLife.54347
+
+
 # Sensitivity to grayscale textures is adapted to natural scene statistics
 
 This contains the scripts and data used to generate all the plots in [the paper](https://www.biorxiv.org/content/10.1101/2019.12.11.872994v1). Some of the code is based on [Hermundstad et al. (2014)](https://elifesciences.org/articles/03722).
